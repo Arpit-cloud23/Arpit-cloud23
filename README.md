@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I’m Arpit
 
-<!--
-**Arpit-cloud23/Arpit-cloud23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Data Engineer | Passionate about Cloud ☁️, Big Data, and ML 🤖  
+💼 Currently learning Azure (DP-203 and DP-700 track) and building data engineering projects  
 
-Here are some ideas to get you started:
+Currently working as an Associate Engineer in Onix-Datametica(Pune)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- Languages: Python, SQL
+- Big Data: Spark, PySpark
+- Cloud: Azure (Blob, ADF, Synapse, etc.), Big Query
+- ML: Scikit-learn, Pandas, Numpy
+- Tools: Git, GitHub, VS Code, Azure Portal
+
+## 📚 Current Focus
+- 🔹 Preparing for DP-700 & DP-203
+- 🔹 Building Azure-based projects for Data Engineering
+- 🔹 Solo Leveling
+
+## 🌱 Projects Coming Soon
+- Azure Data Lake to Synapse pipeline
+- Real-time KYC Verification System
+- End-to-End ML Pipeline with Azure ML
+
+## 📫 Let's Connect
+- LinkedIn: https://www.linkedin.com/in/arpitshrivastav?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- GitHub: https://github.com/Arpit-cloud23
