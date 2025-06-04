@@ -22,6 +22,8 @@ Currently working as an Associate Engineer in Onix-Datametica(Pune)
 - Real-time KYC Verification System
 - End-to-End ML Pipeline with Azure ML
 
+- This Repo consists of both Data Engineering as well as Machine Learning projects.
+
 ## 📫 Let's Connect
 - LinkedIn: https://www.linkedin.com/in/arpitshrivastav?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - GitHub: https://github.com/Arpit-cloud23
