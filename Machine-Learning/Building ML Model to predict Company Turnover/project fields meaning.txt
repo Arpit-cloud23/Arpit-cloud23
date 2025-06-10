@@ -1,0 +1,49 @@
+INTRADAY CHART:-
+This type of chart shows an investment's price movements and trading volume within a given trading day -- typically between 9:30 a.m. to 4 p.m. Eastern time. Because of their narrow time window and high level of detail, intraday charts typically cater to traders looking for short-term price trends.
+
+VWAP:-
+The volume-weighted average price (VWAP) is a technical analysis indicator used on intraday charts that resets at the start of every new trading session.
+It's a trading benchmark that represents the average price a security has traded at throughout the day, based on both volume and price.
+
+What is Series EQ?
+EQ: It stands for Equity. In this series intraday trading is possible in addition to delivery. BE: It stands for Book Entry. Shares falling in the Trade-to-Trade or T-segment are traded in this series and no intraday is allowed. This means trades can only be settled by accepting or giving the delivery of shares.
+
+Volume in the stock market means the total number of shares traded in a specified time frame. This would include every share that is bought and sold during the time period in review.
+
+Deliverable quantity or Deliverable Volume is the quantity of shares which actually move from one set of people (who had those shares in their demat account before today and are selling today) to another set of people (who have purchased those shares and will get those shares by T+2 days in their demat account).
+
+Symbol:-
+A stock symbol is an arrangement of characters—usually letters—representing publicly-traded securities on an exchange. When a company issues securities to the public marketplace, it selects an available symbol for its shares, often related to the company name. Investors and traders use the symbol to place trade orders.
+
+Previous close almost always refers to the prior day's final price of a security when the market officially closes for the day. It can apply to a stock, bond, commodity, futures or option contract, market index, or any other security.
+
+Open:-
+ It is the price at which the financial security opens in the market when trading begins. It may or may not be different from the previous day's closing price. The security may open at a higher price than the closing price due to excess demand of the security.
+
+High:-
+Today's high refers to a security's intraday highest trading price. It is represented by the highest point on a day's stock chart. This can be contrasted with today's low, which is the trading day's intraday low price.
+
+Low:-
+low is the lowest price that a stock trades in that day. It can be difficult to predict a stock's intraday low.
+
+Last:-
+The last price is the one at which the most recent transaction occurs, while the market price is whatever price the brokerage can find to fulfill your order as soon as possible. If you're buying a stock, then the market price is the ask price at that moment.
+
+Close:-
+The close is a reference to the end of a trading session in the financial markets when the markets close for the day. The close can also refer to the process of exiting a trade or the final procedure in a financial transaction in which contract documents are signed and recorded.
+
+Deliverable %:-
+Deliverable quantity represents that portion of overall traded volume in which an investor has taken the delivery into a demat account or sell from a demat account. The remaining quantity are intraday transactions, in which no delivery is made or received.
+Deliverable %=Volume/Deliverable Volume*100
+
+Intraday:-
+Intraday trading means buying and selling stocks on the same trading day. Intraday trading is also known as Day Trading. Share prices keep fluctuating throughout the day, and intraday traders try to draw profits from these price movements by buying and selling shares during the same trading day.
+
+ For example, a trader buys a stock XYZ for Rs 100 at 9:25 AM and sells XYZ for Rs 102 at 12:45 PM. The intraday profit will be 2 percent.
+
+Eastern time:-
+EST stands for Eastern Standard Time. It is five hours behind Coordinated Universal Time (UTC) and Greenwich Mean Time (GMT). The EST time zone gets used during standard time in North America, Central America, and The Caribbean. EST is often called Eastern Time Zone.
+
+Coordinated Universal Time or UTC is the primary time standard by which the world regulates clocks and time. It is within about 1 second of mean solar time at 0° longitude (at the IERS Reference Meridian as the currently used prime meridian) such as UT1 and is not adjusted for daylight saving time.
+
+NSE:- National Stock Exchange Of India.
