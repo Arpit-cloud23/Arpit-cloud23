@@ -1,2 +1,2 @@
 # arpit-repository
-Sample portfolio
+Sample portfolio.
