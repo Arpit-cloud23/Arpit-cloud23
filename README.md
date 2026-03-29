@@ -10,7 +10,7 @@ Currently working as an Associate Engineer in Onix-Datametica(Pune)
 - Big Data: Spark, PySpark
 - Cloud: Azure (Blob, ADF, Synapse, etc.), Big Query
 - ML: Scikit-learn, Pandas, Numpy
-- Tools: Git, GitHub, VS Code, Azure Portal
+- Tools: Git, GitHub, VS Code, Azure Portal.
 
 ## 📚 Current Focus
 - 🔹 Preparing for DP-700 & DP-203
